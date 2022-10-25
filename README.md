@@ -3,7 +3,7 @@
 ![figure](images/figure.png)
 
 **Official Pytorch implementation of our EMNLP paper:**<br>
-[Minju Kim*](https://min942773.github.io/), [Chaehyeong Kim*](https://cheris8.github.io/home/), [Yongho Song*](https://kopf-yhs.github.io/), [Seung-won Hwang](https://seungwonh.github.io/) and [Jinyoung Yeo](http://convei.weebly.com/). BotsTalk: Machine-Sourced Framework for Automatic Curation of Large-scale Multi-skill Dialogue Datasets. _EMNLP_, 2022 [[Paper]](https://arxiv.org/abs/0000) (* equal contribution)
+[Minju Kim*](https://min942773.github.io/), [Chaehyeong Kim*](https://cheris8.github.io/home/), [Yongho Song*](https://kopf-yhs.github.io/), [Seung-won Hwang](https://seungwonh.github.io/) and [Jinyoung Yeo](http://convei.weebly.com/). BotsTalk: Machine-Sourced Framework for Automatic Curation of Large-scale Multi-skill Dialogue Datasets. _EMNLP_, 2022 [[Paper]](https://arxiv.org/abs/2210.12687) (* equal contribution)
 
 
 ## Reference
