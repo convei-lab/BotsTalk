@@ -43,7 +43,7 @@ python scripts/self_mix.py \
 --beam-size 3 \
 --beam-min-length 10 --beam-block-ngram 3 --beam-context-block-ngram 3 \
 --save-format parlai \
---ranker-model-files zoo:pretrained_transformers/model_poly/model,/home/minju/empathetic_dialogues_poly/model.checkpoint,/your_path/wizard_of_wikipedia_poly/model.checkpoint \
+--ranker-model-files zoo:pretrained_transformers/model_poly/model,/your_path/empathetic_dialogues_poly/model.checkpoint,/your_path/wizard_of_wikipedia_poly/model.checkpoint \
 --outfile your_path/output/test_files.txt
 ```
 
