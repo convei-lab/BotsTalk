@@ -20,7 +20,7 @@ If you use the materials in this repository as part of any published research, w
 ```
 
 ## BSBT dataset
-You can download the paper version of our BSBT dataset [here](https://drive.google.com/file/d/1ZR8yKnSSXpPU4Pnw7vGqpEapVODWaqyJ/view?usp=sharing).
+You can download the paper version of our BSBT dataset [here](https://drive.google.com/file/d/1CKzl1pAnqWgixdqMp4-v3vVvBnfpc0FN/view?usp=sharing).
 
 
 
